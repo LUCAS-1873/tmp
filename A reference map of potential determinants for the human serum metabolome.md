@@ -63,4 +63,6 @@
 
  Consistent individualized feature attribution for tree ensembles.  为了解释集成树模型问题。
 
-**Tree SHAP：**  （Shapley Additive explanation）即 shapley加法解释，基于博弈论和局部解释的统一思想，通过树集成和加法方法激活shap值用于特征归因。Scott M. Lundberg等人在NeurIPS 2017上提出了一个框架，该框架统一了包括LIME在内的各种附加特征归因方法。在该论文中，SHAP（代表SHapley Additive exPlanation）值被用作特征重要性的统一度量
+**Tree SHAP：**  （Shapley Additive explanation）即 shapley加法解释，基于博弈论和局部解释的统一思想，通过树集成和加法方法激活shap值用于特征归因。Scott M. Lundberg等人在NeurIPS 2017上提出了一个框架，该框架统一了包括LIME在内的各种附加特征归因方法。在该论文中+
+
+，SHAP（代表SHapley Additive exPlanation）值被用作特征重要性的统一度量
